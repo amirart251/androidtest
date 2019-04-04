@@ -7,3 +7,5 @@ pc > server
 
 change in server for test 
 server > pc
+
+goodbye
